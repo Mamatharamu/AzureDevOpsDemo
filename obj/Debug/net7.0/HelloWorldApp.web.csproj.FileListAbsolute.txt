@@ -1,0 +1,8 @@
+C:\Users\mamat\Desktop\DevOpsDemo\HellowWorldApp\HelloWorldApp.web\obj\Debug\net7.0\HelloWorldApp.web.csproj.AssemblyReference.cache
+C:\Users\mamat\Desktop\DevOpsDemo\HellowWorldApp\HelloWorldApp.web\obj\Debug\net7.0\HelloWorldApp.web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamat\Desktop\DevOpsDemo\HellowWorldApp\HelloWorldApp.web\obj\Debug\net7.0\HelloWorldApp.web.AssemblyInfoInputs.cache
+C:\Users\mamat\Desktop\DevOpsDemo\HellowWorldApp\HelloWorldApp.web\obj\Debug\net7.0\HelloWorldApp.web.AssemblyInfo.cs
+C:\Users\mamat\Desktop\DevOpsDemo\HellowWorldApp\HelloWorldApp.web\obj\Debug\net7.0\HelloWorldApp.web.csproj.CoreCompileInputs.cache
+C:\Users\mamat\Desktop\DevOpsDemo\HellowWorldApp\HelloWorldApp.web\obj\Debug\net7.0\HelloWorldApp.web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mamat\Desktop\DevOpsDemo\HellowWorldApp\HelloWorldApp.web\obj\Debug\net7.0\HelloWorldApp.web.RazorAssemblyInfo.cache
+C:\Users\mamat\Desktop\DevOpsDemo\HellowWorldApp\HelloWorldApp.web\obj\Debug\net7.0\HelloWorldApp.web.RazorAssemblyInfo.cs
